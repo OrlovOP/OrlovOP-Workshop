@@ -1,3 +1,4 @@
 My first string for header.
 My second string from Master branch.
+My second string whithin header.<First branch>.
 My theard string for Master branch <rebase command>.
